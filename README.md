@@ -33,6 +33,7 @@ password:admin
   <img src="screenshots/er.png" >
 </p><dd>
 	</dl>
+	
 	<dl>
 <h1>Screenshots</h1>
   <dt>The user interface of the project.</dt>
@@ -56,8 +57,9 @@ password:admin
 </p><dd>
 	 
   <dt> Delete</dt>
-  <dd>java TheaterClient list localhost<p align="center">
+  <dd><p align="center">
   <img src="screenshots/5.jpg" >
 </p><dd>
-	
 	</dl>
+
+<h1>Techonology Stack</h1>
