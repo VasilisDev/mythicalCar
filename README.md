@@ -5,7 +5,7 @@
 <p>To run this project please download the xampp(or your favourite localhost control panel).Save the project into the xampp folder.Load database schema from db file.Start the apache server and the mysql server.Finally,load the project local.</p>
 
 
-Change the db configuration in renameToconn.php file: 
+Change the db configuration in conn.php file: 
 
 ```
 <?php
