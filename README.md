@@ -66,24 +66,20 @@ password:admin
 
 <ul>
   <li><ul>Front-End
-	  <li>css</li>
-	  <li>Font Awesome 4</li>
-	  <li>saSS</li>
-	 <ul>Javascript
+	   <li>css</li>
+	   <li>Font Awesome 4</li>
+	    <li>saSS</li>
 	    <li>Jquery</li>
             <li>Bootstrap 3 </li>
             <li>DataTables</li>
 	    <li>jQuery plugin for Twitter Bootstrap 3 </li>
 	    <li>SbAdmin 2</li>
-	    
-		 
-		 
-			 </ul>
-	  
       </ul>
   </li>
-  <li></li>
-  <li></li>
+  <li><ul>Server-Side
+	   <li>PHP 5</li>
+	   <li>MySql</li>
+      </ul></li>
 </ul>
 
 <h1>Licence</h1>
