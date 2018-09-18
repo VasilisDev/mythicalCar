@@ -72,7 +72,6 @@ password:admin
 	    <li>Jquery</li>
             <li>Bootstrap 3 </li>
             <li>DataTables</li>
-	    <li>jQuery plugin for Twitter Bootstrap 3 </li>
 	    <li>SbAdmin 2</li>
       </ul>
   </li>
