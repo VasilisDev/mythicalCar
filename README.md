@@ -63,7 +63,15 @@ password:admin
 	</dl>
 
 <h1>Techonology Stack</h1>
-*dsafasf
+
+<ul>
+  <li><ul>Serverside
+	  <li>php 5</li>
+	  </ul
+	</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
 <h1>Licence</h1>
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
