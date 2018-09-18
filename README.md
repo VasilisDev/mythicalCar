@@ -65,12 +65,25 @@ password:admin
 <h1>Techonology Stack</h1>
 
 <ul>
-  <li><ul>Serverside
-	  <li>php 5</li>
-	  </ul
-	</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><ul>Front-End
+	  <li>css</li>
+	  <li>Font Awesome 4</li>
+	  <li>saSS</li>
+	 <ul>Javascript
+	    <li>Jquery</li>
+            <li>Bootstrap 3 </li>
+            <li>DataTables</li>
+	    <li>jQuery plugin for Twitter Bootstrap 3 </li>
+	    <li>SbAdmin 2</li>
+	    
+		 
+		 
+			 </ul>
+	  
+      </ul>
+  </li>
+  <li></li>
+  <li></li>
 </ul>
 
 <h1>Licence</h1>
