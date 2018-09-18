@@ -19,7 +19,7 @@ if (!$conn) {
 
 ```
 
-To login use the below informations.
+To login use the below informations:
 ```
 username:admin
 password:admin
@@ -28,9 +28,36 @@ password:admin
 
 <h1>EER Model</h1>
  <dl>
-  <dt> To see all the tiers,available positions and their cost:</dt>
+  <dt>The relationship between the objects.</dt>
   <dd><p align="center">
   <img src="screenshots/er.png" >
+</p><dd>
+	</dl>
+	<dl>
+<h1>Screenshots</h1>
+  <dt>The user interface of the project.</dt>
+  <dd><p align="center">
+  <img src="screenshots/1.jpg" >
+</p><dd>
+	 
+  <dt>Read</dt>
+  <dd><p align="center">
+  <img src="screenshots/2.jpg" >
+</p><dd>
+	 
+  <dt>Create</dt>
+  <dd><p align="center">
+  <img src="screenshots/3.jpg" >
+</p><dd>
+	 
+  <dt> Update</dt>
+  <dd><p align="center">
+  <img src="screenshots/4.jpg" >
+</p><dd>
+	 
+  <dt> Delete</dt>
+  <dd>java TheaterClient list localhost<p align="center">
+  <img src="screenshots/5.jpg" >
 </p><dd>
 	
 	</dl>
