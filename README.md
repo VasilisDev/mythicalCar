@@ -27,14 +27,14 @@ password:admin
 ```
 
 <h1>EER Model</h1>
- <dl>
+      <dl>
   <dt>The relationship between the objects.</dt>
   <dd><p align="center">
   <img src="screenshots/er.png" >
 </p><dd>
 	</dl>
 	
-	<dl>
+	
 <h1>Screenshots</h1>
   <dt>The user interface of the project.</dt>
   <dd><p align="center">
