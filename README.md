@@ -64,3 +64,6 @@ password:admin
 
 <h1>Techonology Stack</h1>
 *dsafasf
+
+<h1>Licence</h1>
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
