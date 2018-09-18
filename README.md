@@ -6,7 +6,7 @@
 <p>To run this project please download the xampp(or your favourite localhost control panel).Save the project into the xampp folder.Load database schema from db file.Start the apache server and the mysql server.Finally,load the project local.</p>
 
 
-Change the db configuration: 
+Change the db configuration in renameToconn.php file: 
 
 ```
 <?php
@@ -19,9 +19,18 @@ if (!$conn) {
 
 ```
 
-
+To login use the below informations.
 ```
 username:admin
 password:admin
 
 ```
+
+<h1>EER Model</h1>
+ <dl>
+  <dt> To see all the tiers,available positions and their cost:</dt>
+  <dd><p align="center">
+  <img src="screenshots/er.png" >
+</p><dd>
+	
+	</dl>
